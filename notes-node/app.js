@@ -45,6 +45,6 @@ if (command === 'add') {
     var message = isRemoved ? "Note was removed" : "Note was not removed";
     console.log(message);
 } else {
-    console.log('Command not recognized');
+    console.log("Command not recognized");
 }
 
